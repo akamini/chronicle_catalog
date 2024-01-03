@@ -1,0 +1,141 @@
+export const manufacturers = [
+  {
+    id: "0",
+    maker: "GPX",
+  },
+  {
+    id: "1",
+    maker: "Benelli",
+  },
+]
+
+export const bikeData = [
+  {
+    id: "0",
+    src: "/GR200R-BLACK.jpg",
+    title: "GR200R",
+    disp: "coolest bike",
+    tag: "GPX",
+    value: "543210",
+    color: "black",
+    modalValue: "500000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+  {
+    id: "1",
+    src: "/GR200R-BLUE.jpg",
+    title: "GR200R",
+    disp: "coolest bike",
+    tag: "GPX",
+    value: "443210",
+    color: "blue",
+    modalValue: "400000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+  {
+    id: "2",
+    src: "/GR200R-GRAY.jpg",
+    title: "GR200R",
+    disp: "coolest bike",
+    tag: "GPX",
+    value: "343210",
+    color: "gray",
+    modalValue: "300000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+  {
+    id: "3",
+    src: "/legend250twin3.jpg",
+    title: "legend250twin3",
+    disp: "cool bike",
+    tag: "Benelli",
+    value: "243210",
+    color: "white",
+    modalValue: "200000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+  {
+    id: "4",
+    src: "/legend250brighton.jpg",
+    title: "legend250brighton",
+    disp: "cool bike",
+    tag: "Benelli",
+    value: "643210",
+    color: "black",
+    modalValue: "600000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+  {
+    id: "5",
+    src: "/legend250twin3-3.jpg",
+    title: "legend250twin3",
+    disp: "cool bike",
+    tag: "Benelli",
+    value: "743210",
+    color: "black",
+    modalValue: "700000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+  {
+    id: "6",
+    src: "/legend250twin3-4.jpg",
+    title: "legend250twin3",
+    disp: "cool bike",
+    tag: "Benelli",
+    value: "843210",
+    color: "black",
+    modalValue: "800000",
+    modalTax: "43210",
+    closeText: "Close",
+  },
+]
+
+export const yearsOfProduction = [
+  { title: "Year", value: "" },
+  { title: "2015", value: "2015" },
+  { title: "2016", value: "2016" },
+  { title: "2017", value: "2017" },
+  { title: "2018", value: "2018" },
+  { title: "2019", value: "2019" },
+  { title: "2020", value: "2020" },
+  { title: "2021", value: "2021" },
+  { title: "2022", value: "2022" },
+  { title: "2023", value: "2023" },
+]
+
+
+export const footerLinks = [
+  {
+    title: "About",
+    links: [
+      { title: "How it works", url: "/" },
+      { title: "Featured", url: "/" },
+      { title: "Partnership", url: "/" },
+      { title: "Bussiness Relation", url: "/" },
+    ],
+  },
+  {
+    title: "Company",
+    links: [
+      { title: "Events", url: "/" },
+      { title: "Blog", url: "/" },
+      { title: "Podcast", url: "/" },
+      { title: "Invite a friend", url: "/" },
+    ],
+  },
+  {
+    title: "Socials",
+    links: [
+      { title: "Discord", url: "/" },
+      { title: "Instagram", url: "/" },
+      { title: "Twitter", url: "/" },
+      { title: "Facebook", url: "/" },
+    ],
+  },
+]
